@@ -133,5 +133,4 @@ function deleteStudent(id) {
 searchInput.addEventListener("input", displayStudents);
 filterCourse.addEventListener("change", displayStudents);
 
-// Initial display
 displayStudents();
